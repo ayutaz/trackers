@@ -117,6 +117,7 @@ nav:
   - Guides:
     - Install: learn/install.md
     - Evaluate: learn/evaluate.md
+    - Demo: learn/demo.md
   - API Reference:
     - Trackers: api-trackers.md
     - Evals: api-evals.md

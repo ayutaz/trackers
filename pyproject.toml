@@ -38,6 +38,8 @@ dependencies = [
     "numpy>=2.0.2",
     "supervision>=0.26.1",
     "scipy>=1.13.1",
+    "ultralytics>=8.4.12",
+    "opencv-python>=4.11.0.86",
 ]
 
 [project.optional-dependencies]
